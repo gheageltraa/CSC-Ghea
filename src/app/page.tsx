@@ -15,10 +15,6 @@ export default function Home() {
       </Link>
 
       <Link href={'/components/list'}>
-        <button></button>
-      </Link>
-
-      <Link href={'/components/list'}>
         <button>profil</button>
       </Link>
 
